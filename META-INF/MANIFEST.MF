@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: JMusicBot
+Implementation-Version: 0.2.7
+Archiver-Version: Plexus Archiver
+Built-By: jagrosh
+Implementation-Vendor-Id: com.jagrosh
+Specification-Title: JMusicBot
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_111
+Specification-Version: 0.2.7
+Main-Class: com.jagrosh.jmusicbot.JMusicBot
+
